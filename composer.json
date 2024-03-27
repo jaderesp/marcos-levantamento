@@ -1,0 +1,14 @@
+{
+    "name": "phpsandbox/interactive",
+    "description": "Standard scaffold for Interactive notebooks on PHPSandbox",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13"
+    },
+    "config": {
+        "discard-changes": true
+    }
+}
